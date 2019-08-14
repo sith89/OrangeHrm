@@ -1,0 +1,177 @@
+2019-05-08 04:02:28 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:02:34 INFO  LoggerUtil:18 - testOrangeHRMLoginTest is Starting
+2019-05-08 04:02:37 INFO  LoggerUtil:18 - testOrangeHRMLoginTest is Ending
+2019-05-08 04:02:37 INFO  LoggerUtil:18 - testAddUserToTheHRMTest is Starting
+2019-05-08 04:02:53 INFO  LoggerUtil:18 - testAddUserToTheHRMTest is Ending
+2019-05-08 04:02:53 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:05:53 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:05:53 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:05:55 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:05:55 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:06:11 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:06:11 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:07:32 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:07:32 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:07:35 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:07:35 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:07:52 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:12:21 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:12:21 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:12:23 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:12:23 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:12:39 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:12:39 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:26:01 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:26:01 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:26:06 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath:  (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 04:26:06 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:28:02 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:28:02 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:28:08 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath:  (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 04:28:08 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:29:06 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:29:06 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:29:12 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath:  (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 04:29:12 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:30:09 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:30:09 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:30:11 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:30:11 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:30:27 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:30:27 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:41:16 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:41:16 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:41:18 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:41:18 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 04:41:21 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:41:23 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:42:49 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:42:49 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:42:52 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:42:52 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 04:42:55 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:42:56 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:44:03 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:44:03 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:44:06 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:44:06 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:44:22 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:44:22 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 04:44:23 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:44:48 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:44:48 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:44:51 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:44:51 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:45:08 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:45:08 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 04:45:09 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 04:57:36 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 04:57:36 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 04:57:39 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 04:57:39 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 04:57:56 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 04:57:56 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 04:58:03 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 04:58:04 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 05:00:52 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 05:00:52 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 05:00:55 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 05:00:55 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 05:01:12 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 05:01:12 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 05:01:18 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 05:01:19 INFO  LoggerUtil:18 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='welcome']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ubuntuman', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: /tmp/.com.google.Chrome.8GfegP}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:39481}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 70f2ff09049e4deb82b1c767716df9e9
+*** Element info: {Using=xpath, value=//a[@id='welcome']}
+2019-05-08 05:01:19 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 05:02:25 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 05:02:25 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 05:02:31 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 05:02:31 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 05:02:46 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 05:02:46 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 05:02:55 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 05:02:56 INFO  LoggerUtil:18 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='welcome']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ubuntuman', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: /tmp/.com.google.Chrome.o20ako}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:35717}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 0361c08c678c50a9d306c5b2965e173e
+*** Element info: {Using=xpath, value=//a[@id='welcome']}
+2019-05-08 05:02:56 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 05:07:54 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 05:07:54 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 05:07:59 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 05:07:59 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 05:08:15 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 05:08:15 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 05:08:23 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 05:08:49 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 05:08:49 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 05:08:55 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 05:08:55 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 05:09:11 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 05:09:11 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 05:09:20 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 05:09:21 INFO  LoggerUtil:18 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='welcome']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ubuntuman', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: /tmp/.com.google.Chrome.UkLFIa}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36381}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 35c4a89b2612f6012e3807fef3d1ca84
+*** Element info: {Using=xpath, value=//a[@id='welcome']}
+2019-05-08 05:09:21 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-05-08 05:10:03 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-05-08 05:10:03 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-05-08 05:10:09 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-05-08 05:10:09 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-05-08 05:10:24 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-05-08 05:10:24 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-05-08 05:10:33 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-05-08 05:10:34 INFO  LoggerUtil:18 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='welcome']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ubuntuman', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: /tmp/.com.google.Chrome.pxA5C7}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:43441}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 3a00e2275339343dda128d067fb1711f
+*** Element info: {Using=xpath, value=//a[@id='welcome']}
+2019-05-08 05:10:34 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
+2019-08-14 22:06:50 INFO  LoggerUtil:10 - test.OrangeHRMTest Test is Starting
+2019-08-14 22:06:50 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Starting
+2019-08-14 22:06:54 INFO  LoggerUtil:18 - testOrangeHRMLogin Test is Ending
+2019-08-14 22:06:54 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Starting
+2019-08-14 22:07:10 INFO  LoggerUtil:18 - testAddUserToTheHRM Test is Ending
+2019-08-14 22:07:10 INFO  LoggerUtil:18 - testOrangeHAMLoginWithInvalidCredential Test is Starting
+2019-08-14 22:07:19 INFO  LoggerUtil:18 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='welcome'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-14 22:07:20 INFO  LoggerUtil:18 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='welcome']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '342-nb-3v5s7h2', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: /tmp/.com.google.Chrome.rjwt3d}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37411}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 9fa85903c0ccebb4ecb5e6e8f69edad9
+*** Element info: {Using=xpath, value=//a[@id='welcome']}
+2019-08-14 22:07:20 INFO  LoggerUtil:14 - test.OrangeHRMTest Test is Ending
